@@ -1,0 +1,9 @@
+RewriteEngine on
+
+RewriteRule ^(index|about_us|contact|bloglist|faq|terms|privacy)$ $1.php [NC,L]
+
+RewriteRule ^(app/index|app/shop|app/checkout|app/login|app/registration|app/item|app/logistics|app/categories)$ $1.php [NC,L]
+
+RewriteRule ^app/item/(\d+)$ app/item.php?id=$1 [NC,L]
+
+RewriteRule ^app/category/(\d+)$ app/category.php?id=$1 [NC,L]

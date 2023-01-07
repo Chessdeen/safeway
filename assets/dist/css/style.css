@@ -1,0 +1,20 @@
+#spin {
+  color:WHITE;
+}
+#spin:after {
+  content:"";
+  animation: spin 10s linear infinite;
+}
+@keyframes spin {
+  0% { content:"SKIN LESION"; }
+  10% { content:"ACNE"; }
+  20% { content:"MOLES"; }
+  30% { content:"VIRAL INFECTIONS"; }
+  40% { content:"DERMATITIS"; }
+  50% { content:"BIRTHMARKS"; }
+  60% { content:"SKIN CANCER"; }
+  70% { content: "ECZEMA"; }
+  80% { content:"MELANOMA"; }
+  90% { content: "SUNBURN"; }
+  100% { content: "WARTS"; }
+}

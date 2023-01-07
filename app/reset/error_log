@@ -1,0 +1,16 @@
+[19-Dec-2022 00:59:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/safeygwt/public_html/app/reset/send_link.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/safeygwt/public_html/app/reset/send_link.php on line 4
+[19-Dec-2022 01:00:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/safeygwt/public_html/app/reset/send_link.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/safeygwt/public_html/app/reset/send_link.php on line 4
+[19-Dec-2022 01:03:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/safeygwt/public_html/app/reset/send_link.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/safeygwt/public_html/app/reset/send_link.php on line 4
+[19-Dec-2022 01:03:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/safeygwt/public_html/app/reset/send_link.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/safeygwt/public_html/app/reset/send_link.php on line 4

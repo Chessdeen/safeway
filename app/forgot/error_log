@@ -1,0 +1,9 @@
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(includes/db.php): failed to open stream: No such file or directory in /home/safeygwt/public_html/app/forgot/forgot.php on line 1
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(includes/db.php): failed to open stream: No such file or directory in /home/safeygwt/public_html/app/forgot/forgot.php on line 1
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/safeygwt/public_html/app/forgot/forgot.php on line 1
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/safeygwt/public_html/app/forgot/forgot.php on line 2
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/safeygwt/public_html/app/forgot/forgot.php on line 2
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/safeygwt/public_html/app/forgot/forgot.php on line 2
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/safeygwt/public_html/app/forgot/forgot.php on line 52
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/safeygwt/public_html/app/forgot/forgot.php on line 52
+[23-Dec-2022 05:07:25 America/New_York] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/safeygwt/public_html/app/forgot/forgot.php on line 52
