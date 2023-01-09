@@ -2,9 +2,9 @@
 <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
     <div class="col-md-8 d-flex align-items-center">
       <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-        <img src="assets/images/logo.png" width="60" height="60" alt="safeway logo">
+        <img src="assets/images/logo.png" width="40" height="40" alt="safeway logo">
       </a>
-      <span class="mb-3 mb-md-0 text-muted">&copy; <?php echo date("Y"); ?> Safeway Dermatology and Laser Centre | <a href="terms">Terms</a> | <a href="privacy">Privacy</a> | <a href="faq">FAQ</a>  | <a href="bloglist">Blog</a> </span>
+      <span class="mb-4 mb-md-0 text-muted">&copy; <?php echo date("Y"); ?> Safeway Dermatology and Laser Centre | <a href="terms">Terms</a> | <a href="privacy">Privacy</a> | Built with <i class="fa-regular fa-heart" style="color:red;"></i> by <a href="https://ade.codes" class="text-muted" target="_blank" style="color:;">Ade Codes</a> </span>
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
